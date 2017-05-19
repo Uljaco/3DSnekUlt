@@ -1,0 +1,42 @@
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\3DSnekSquareText.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\3DSnekText.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\arena.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\snakeHead.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\GameOverText.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\gameOverMenuText.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\ultimateText.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\skybox.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Videos\crazyDogMan.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Music\12 ALEXANDER MOSOLOV - Zavod [Iron Foundry].xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Gnome Child_0.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\lennyFace_0.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\pepe_0.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\dragon_0.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\patrick_0.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\train_0.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\teletubbies-800_0.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\chicken_0.xnb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Videos\crazyDogMan.wmv
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Music\12 ALEXANDER MOSOLOV - Zavod [Iron Foundry].wma
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\_3DSnekUlt.exe.manifest
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\_3DSnekUlt.application
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\_3DSnekUlt.exe
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\_3DSnekUlt.pdb
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.Video.dll
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.Video.xml
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\_3DSnekUlt.csprojResolveAssemblyReference.cache
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\_3DSnekUlt.exe.manifest
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\_3DSnekUlt.application
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\_3DSnekUlt.exe
+C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\_3DSnekUlt.pdb

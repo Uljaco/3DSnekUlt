@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\3DSnekSquareText.fbx</Source>
+      <Name>Models\3DSnekSquareText</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\3DSnekSquareText.xnb</Output>
+      <Time>2016-11-21T11:51:26.3691439-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\3DSnekSquareText_0.xml</Key>
+        <Value>2016-12-09T23:11:49.6241346-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\3DSnekText.fbx</Source>
+      <Name>Models\3DSnekText</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\3DSnekText.xnb</Output>
+      <Time>2016-11-21T11:45:16.5100074-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\3DSnekText_0.xml</Key>
+        <Value>2016-12-09T23:11:50.3931859-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\arena.fbx</Source>
+      <Name>Models\arena</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\arena.xnb</Output>
+      <Time>2016-11-21T14:57:44.9586226-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\arena_0.xml</Key>
+        <Value>2016-12-09T23:11:50.5338119-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Gnome Child_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\snakeHead.fbx</Source>
+      <Name>Models\snakeHead</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\snakeHead.xnb</Output>
+      <Time>2016-11-21T13:19:48.8471055-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\snakeHead_0.xml</Key>
+        <Value>2016-12-09T23:11:51.8112085-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\lennyFace_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\GameOverText.fbx</Source>
+      <Name>Models\GameOverText</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\GameOverText.xnb</Output>
+      <Time>2016-12-08T12:38:37.8204699-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\GameOverText_0.xml</Key>
+        <Value>2016-12-09T23:11:51.9480712-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\gameOverMenuText.fbx</Source>
+      <Name>Models\gameOverMenuText</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\gameOverMenuText.xnb</Output>
+      <Time>2016-12-08T12:52:56.2086791-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\gameOverMenuText_0.xml</Key>
+        <Value>2016-12-09T23:11:52.1511816-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ultimateText.fbx</Source>
+      <Name>Models\ultimateText</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\ultimateText.xnb</Output>
+      <Time>2016-12-08T13:44:46.329919-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\ultimateText_0.xml</Key>
+        <Value>2016-12-09T23:11:52.401183-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\skybox.fbx</Source>
+      <Name>Models\skybox</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Models\skybox.xnb</Output>
+      <Time>2016-12-08T15:59:15.9444687-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\skybox_0.xml</Key>
+        <Value>2016-12-09T23:11:52.4636843-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\pepe_0.xnb</Request>
+      <Request>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\dragon_0.xnb</Request>
+      <Request>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\patrick_0.xnb</Request>
+      <Request>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\train_0.xnb</Request>
+      <Request>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\teletubbies-800_0.xnb</Request>
+      <Request>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\chicken_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Videos\crazyDogMan.wmv</Source>
+      <Name>Videos\crazyDogMan</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Videos\crazyDogMan.xnb</Output>
+      <Extra>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Videos\crazyDogMan.wmv</Extra>
+      <Time>2016-12-08T21:40:11.3208627-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\12 ALEXANDER MOSOLOV - Zavod [Iron Foundry].mp3</Source>
+      <Name>Music\12 ALEXANDER MOSOLOV - Zavod [Iron Foundry]</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Music\12 ALEXANDER MOSOLOV - Zavod [Iron Foundry].xnb</Output>
+      <Extra>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Music\12 ALEXANDER MOSOLOV - Zavod [Iron Foundry].wma</Extra>
+      <Time>2012-08-31T17:04:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\3DSnekSquareText.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\3DSnekSquareText_0.xml</Output>
+      <Time>2016-11-21T11:51:26.3691439-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\3DSnekText.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\3DSnekText_0.xml</Output>
+      <Time>2016-11-21T11:45:16.5100074-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\arena.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\arena_0.xml</Output>
+      <Time>2016-11-21T14:57:44.9586226-06:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ulyss_000\Documents\Blender Models\PhotosForXNApowersof2\Gnome Child.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\Gnome Child_0.xnb</Output>
+      <Time>2016-11-21T14:44:59.7550731-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\snakeHead.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\snakeHead_0.xml</Output>
+      <Time>2016-11-21T13:19:48.8471055-06:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ulyss_000\OneDrive\Pictures\LeGaem\lennyFace.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\lennyFace_0.xnb</Output>
+      <Time>2016-11-21T13:18:46.7693063-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\GameOverText.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\GameOverText_0.xml</Output>
+      <Time>2016-12-08T12:38:37.8204699-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\gameOverMenuText.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\gameOverMenuText_0.xml</Output>
+      <Time>2016-12-08T12:52:56.2086791-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ultimateText.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\ultimateText_0.xml</Output>
+      <Time>2016-12-08T13:44:46.329919-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\Models\skybox_0.xml</Output>
+      <Time>2016-12-08T15:59:15.9444687-06:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ulyss_000\OneDrive\Pictures\LeGaem\pepe.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\pepe_0.xnb</Output>
+      <Time>2016-12-08T14:21:53.9392149-06:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ulyss_000\OneDrive\Pictures\LeGaem\dragon.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\dragon_0.xnb</Output>
+      <Time>2016-12-08T14:17:15.8615687-06:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ulyss_000\OneDrive\Pictures\LeGaem\patrick.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\patrick_0.xnb</Output>
+      <Time>2016-12-08T14:17:39.0285205-06:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ulyss_000\OneDrive\Pictures\LeGaem\train.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\train_0.xnb</Output>
+      <Time>2016-12-08T14:18:21.8596962-06:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ulyss_000\OneDrive\Pictures\LeGaem\teletubbies-800.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\teletubbies-800_0.xnb</Output>
+      <Time>2016-12-08T13:59:35.28473-06:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ulyss_000\OneDrive\Pictures\LeGaem\chicken.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\chicken_0.xnb</Output>
+      <Time>2016-12-08T14:11:40.9483042-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A47B2102-4496-4292-9982-EAF31DD46977}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUltContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUlt\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-08-29T10:51:24.9090628-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

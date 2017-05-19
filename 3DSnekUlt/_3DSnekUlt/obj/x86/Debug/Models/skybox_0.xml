@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUltContent\Models\skybox.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane.005</Name>
+        <Transform>0.000130308152 2.11248659E-28 669.2519 0 -7.980749E-06 669.2519 1.55390924E-12 0 -669.2519 -7.980749E-06 0.000130308152 0 665.579346 669.3 0 1</Transform>
+        <Positions>-1 -1 0 1 -1 0 -1 1 0 1 1 0</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.0001000396 0.999900043 0.999900043 0.999900043 0.999900043 9.995699E-05 9.998001E-05 9.995699E-05</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane.004</Name>
+        <Transform>5.05271128E-05 -2.63973327E-28 -669.2519 0 2.92539371E-05 669.2519 2.20861068E-12 0 669.2519 -2.92539371E-05 5.05271128E-05 0 -667.708252 669.3 0 1</Transform>
+        <Positions>-1 -1 0 1 -1 0 -1 1 0 1 1 0</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.0001000396 0.999900043 0.999900043 0.999900043 0.999900043 9.995699E-05 9.998001E-05 9.995699E-05</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane.003</Name>
+        <Transform>669.2519 0 0 0 0 -0.000109034976 -669.2519 0 0 669.2519 -0.000109034976 0 0 0 0 1</Transform>
+        <Positions>-1 -1 0 1 -1 0 -1 1 0 1 1 0</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource3</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.0001000396 0.999900043 0.999900043 0.999900043 0.999900043 9.995699E-05 9.998001E-05 9.995699E-05</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane.002</Name>
+        <Transform>-669.3 5.851206E-05 -5.85120652E-05 0 5.85120652E-05 669.3 -7.981323E-06 0 5.85120652E-05 -7.981327E-06 -669.3 0 0 667.452 669.2722 1</Transform>
+        <Positions>-1 -1 0 1 -1 0 -1 1 0 1 1 0</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource4</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.0001000396 0.999900043 0.999900043 0.999900043 0.999900043 9.995699E-05 9.998001E-05 9.995699E-05</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane.001</Name>
+        <Transform>669.2519 0 0 0 0 -0.000109034976 669.2519 0 0 -669.2519 -0.000109034976 0 0 1328.74634 0 1</Transform>
+        <Positions>-1 -1 0 1 -1 0 -1 1 0 1 1 0</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource5</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.0001000396 0.999900043 0.999900043 0.999900043 0.999900043 9.995699E-05 9.998001E-05 9.995699E-05</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane</Name>
+        <Transform>669.3 0 0 0 0 669.3 2.925603E-05 0 0 -2.925603E-05 669.3 0 0 667.452 -646.9711 1</Transform>
+        <Positions>-1 -1 0 1 -1 0 -1 1 0 1 1 0</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource6</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.0001000396 0.999900043 0.999900043 0.999900043 0.999900043 9.995699E-05 9.998001E-05 9.995699E-05</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Material.006</Name>
+      <Identity>
+        <SourceFilename>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUltContent\Models\skybox.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.25 0.25 0.25</Data>
+        <Data Key="SpecularPower" Type="float">9.607843</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>Material.005</Name>
+      <Identity>
+        <SourceFilename>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUltContent\Models\skybox.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.25 0.25 0.25</Data>
+        <Data Key="SpecularPower" Type="float">9.607843</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <Reference>#External2</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource3" Type="Graphics:BasicMaterialContent">
+      <Name>Material.004</Name>
+      <Identity>
+        <SourceFilename>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUltContent\Models\skybox.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.25 0.25 0.25</Data>
+        <Data Key="SpecularPower" Type="float">9.607843</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <Reference>#External3</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource4" Type="Graphics:BasicMaterialContent">
+      <Name>Material.001</Name>
+      <Identity>
+        <SourceFilename>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUltContent\Models\skybox.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.25 0.25 0.25</Data>
+        <Data Key="SpecularPower" Type="float">9.607843</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <Reference>#External4</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource5" Type="Graphics:BasicMaterialContent">
+      <Name>Material.002</Name>
+      <Identity>
+        <SourceFilename>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUltContent\Models\skybox.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.25 0.25 0.25</Data>
+        <Data Key="SpecularPower" Type="float">9.607843</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <Reference>#External5</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource6" Type="Graphics:BasicMaterialContent">
+      <Name>Material.003</Name>
+      <Identity>
+        <SourceFilename>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUltContent\Models\skybox.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.25 0.25 0.25</Data>
+        <Data Key="SpecularPower" Type="float">9.607843</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <Reference>#External6</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\..\..\..\..\OneDrive\Pictures\LeGaem\pepe.jpg</ExternalReference>
+    <ExternalReference ID="#External2" TargetType="Graphics:TextureContent">..\..\..\..\..\..\..\..\..\OneDrive\Pictures\LeGaem\dragon.jpg</ExternalReference>
+    <ExternalReference ID="#External3" TargetType="Graphics:TextureContent">..\..\..\..\..\..\..\..\..\OneDrive\Pictures\LeGaem\patrick.jpg</ExternalReference>
+    <ExternalReference ID="#External4" TargetType="Graphics:TextureContent">..\..\..\..\..\..\..\..\..\OneDrive\Pictures\LeGaem\train.png</ExternalReference>
+    <ExternalReference ID="#External5" TargetType="Graphics:TextureContent">..\..\..\..\..\..\..\..\..\OneDrive\Pictures\LeGaem\teletubbies-800.jpg</ExternalReference>
+    <ExternalReference ID="#External6" TargetType="Graphics:TextureContent">..\..\..\..\..\..\..\..\..\OneDrive\Pictures\LeGaem\chicken.jpg</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUltContent\Models\arena.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane.004</Name>
+        <Transform>0.0001509958 0 2000 0 -4.37113931E-06 100 3.30011843E-13 0 -100 -4.37113931E-06 7.54979E-06 0 2035.41565 116.389717 -10.2750778 1</Transform>
+        <Positions>-1 -1 0 1 -1 0 -1 1 0 1 1 0</Positions>
+        <Geometry>
+          <Batch>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane.003</Name>
+        <Transform>2000 0 0 0 0 100 4.371139E-06 0 0 -4.371139E-06 100 0 -21.7548 114.158722 -2045.68884 1</Transform>
+        <Positions>-1 -1 0 1 -1 0 -1 1 0 1 1 0</Positions>
+        <Geometry>
+          <Batch>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane.002</Name>
+        <Transform>0.0001509958 0 -2000 0 4.37113931E-06 100 3.30011843E-13 0 100 -4.37113931E-06 7.54979E-06 0 -2061.24878 112.926842 -10.2750778 1</Transform>
+        <Positions>-1 -1 0 1 -1 0 -1 1 0 1 1 0</Positions>
+        <Geometry>
+          <Batch>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane.001</Name>
+        <Transform>-2000 -4.21937955E-19 0.0003019916 0 -6.60023631E-13 100 -4.371139E-06 0 -1.509958E-05 -4.371139E-06 -100 0 57.3970146 111.344887 2033.57239 1</Transform>
+        <Positions>-1 -1 0 1 -1 0 -1 1 0 1 1 0</Positions>
+        <Geometry>
+          <Batch>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane</Name>
+        <Transform>2000 0 0 0 0 -0.000325841364 -2000 0 0 100 -1.62920678E-05 0 0 0 0 1</Transform>
+        <Positions>-1 -1 0 1 -1 0 -1 1 0 1 1 0</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.0001000396 0.999900043 0.999900043 0.999900043 0.999900043 9.995699E-05 9.998001E-05 9.995699E-05</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Material.001</Name>
+      <Identity>
+        <SourceFilename>C:\Users\ulyss_000\Documents\Visual Studio 2015\Projects\3DSnekUlt\_3DSnekUltContent\Models\arena.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.25 0.25 0.25</Data>
+        <Data Key="SpecularPower" Type="float">9.607843</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\..\..\..\Blender Models\PhotosForXNApowersof2\Gnome Child.jpg</ExternalReference>
+  </ExternalReferences>
+</XnaContent>
